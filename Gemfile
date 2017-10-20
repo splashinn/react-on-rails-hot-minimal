@@ -10,7 +10,8 @@ gem 'sqlite3'
 gem 'puma', '~> 3.7'
 gem 'sass-rails', github: "rails/sass-rails"
 
-gem 'react_on_rails'
+gem 'react_on_rails', '~> 8.0.6'
+gem 'bootstrap', '~> 4.0.0.beta2'
 gem 'foreman', require: false
 
 gem 'uglifier', '>= 1.3.0'
