@@ -18,6 +18,9 @@ const Base = ({ store, history }) => (
           <div className={s.item}>
             <NavLink to="/redux-demo">Redux Demo</NavLink>
           </div>
+          <div className={s.item}>
+            <NavLink to="/redux-demo">Redux Demo</NavLink>
+          </div>
         </nav>
         <hr/>
         <div className={s.main}>
